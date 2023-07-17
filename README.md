@@ -1,1 +1,1 @@
-# gitFlow-examplr
+# gitFlow-example
